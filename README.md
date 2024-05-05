@@ -43,7 +43,7 @@ Breatheasy is a website that provides real-time air quality index (AQI) predicti
    ![image](https://github.com/VedantM21/AQI_Prediction/assets/88673354/224827d3-53b8-4b83-a048-512e34f60c19)
 
 
-
+Thank you!!
 
 
 
