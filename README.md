@@ -15,7 +15,7 @@ Breatheasy is a website that provides real-time air quality index (AQI) predicti
 
 - **Machine Learning:** KNN and Random Forest models for AQI predictions.
   
-- **Web Development:** HTML, CSS, JavaScript for front-end development. Flask framework for back-end development.
+- **Web Development:** HTML, CSS, JavaScript for front-end development. Django for back-end development.
   
 - **Data Visualization:** Matplotlib, Plotly for visualizing AQI predictions and weather data.
 
