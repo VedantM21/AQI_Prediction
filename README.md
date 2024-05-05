@@ -27,6 +27,7 @@ Breatheasy is a website that provides real-time air quality index (AQI) predicti
    git clone https://github.com/your-username/breatheasy.git
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 ## Screenshots
