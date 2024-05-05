@@ -2,7 +2,6 @@
 
 Breatheasy is a website that provides real-time air quality index (AQI) predictions for various states in India. It uses machine learning models, specifically K-Nearest Neighbors (KNN) and Random Forest, to predict the AQI for different locations. In addition to AQI predictions, the website also displays an overview of the state and live weather conditions.
 
-![Breatheasy Demo](/path/to/demo/screenshot.png)
 
 ## Key Features
 
